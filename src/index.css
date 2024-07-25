@@ -1,0 +1,11 @@
+/* src/index.css */
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  background-color: lightblue; /* Aquí se define el color de fondo */ 
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
